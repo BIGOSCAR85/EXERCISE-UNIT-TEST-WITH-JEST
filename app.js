@@ -7,7 +7,7 @@ const sum = (a,b) => {
 
 console.log(sum(7,3))
 
-module.exports = { sum };
+//module.exports = { sum };
 
 
 // declaramos una funcion con el mismo nombre "formEuroToDollar"
